@@ -41,4 +41,4 @@ Triad Strike is a high-speed, strategic field sport defined by its dynamic neutr
 
 -   **Infractions:** Triggered by illegal body contact, handballs outside of designated exceptions, or a neutral defender entering the 3-foot Goal Zone.
 
--   **The Penalty Set:** The fouled team receives a free kick. To defend the shot, the **Neutral Defenders plus 2 players from the penalised team** form a defensive wall.
+-   **The Penalty Set:** The _other_ team than the fouled team receives a free kick. To defend the shot, the **Neutral Defenders plus 2 players from the penalised team** form a defensive wall.
